@@ -63,7 +63,7 @@ _Launch an interactive CLI that asks which account's blobs you'd like to list._
 After running this command, you will see output describing the blobs that are currently stored on Shelby for the specified account. Remember: you provide the storage duration at time of upload, so you will not see blobs that have expired.
 
 ### 4. Download a Blob from Shelby
-
+Shelby testnet participant
 `npm run download`
 
 **Executes code from `src/guide/download.ts`**
